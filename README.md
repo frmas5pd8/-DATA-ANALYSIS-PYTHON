@@ -1,7 +1,7 @@
 # BIG BAZAR DIWALI SALES ANALYSIS
 
 # Project Objective : 
-At the request of Big Bazar's proprietor, we are dedicating our efforts to analyze Diwali sales data, aiming to foster a more satisfying customer experience.
+Big Bazar's proprietor, we are dedicating their efforts to analyze Diwali sales data, aiming to foster a more satisfying customer experience.
 
 # Tools :
 * Python
