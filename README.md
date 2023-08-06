@@ -21,7 +21,7 @@ Big Bazar's proprietor, we are dedicating their efforts to analyze Diwali sales 
 5) Used different types of customized visualizations in the form of bar charts, donut charts, clustered bar charts, tiles, and slicers.
 
 # Insights :
-1) 
+1) Marrried Women age group 26-35yrs from UP, Maharashtra & Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
 
 
 
