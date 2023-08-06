@@ -8,10 +8,10 @@ The proprietor of Big Bazar wants us to help them Analyze Diwali sales data to i
   
 # Dataset Description:
 * The Dataset contains information on various categories and their details.
-* File Type: .xlxs
+* File Type: .csv
 
 * The variables in the datasets are:
-* Table1: Diwali Sales Data.xlxs User_ID, Cust_name, Product_ID, Gender, Age Group, Age, Marital_Status, State, Zone, Occupation, Product_Category, Orders, Amount
+* Table1: Diwali Sales Data.csv User_ID, Cust_name, Product_ID, Gender, Age Group, Age, Marital_Status, State, Zone, Occupation, Product_Category, Orders, Amount
 
 # Learning Outcomes:
 1) Created an interactive dashboard to track and analyze online sales data.
